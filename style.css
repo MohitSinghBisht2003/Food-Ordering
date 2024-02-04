@@ -1,7 +1,7 @@
-@font-face { font-family:Proteststrike; src: url('ProtestStrike-Regular.ttf'); } 
-@font-face { font-family:PTserif; src: url('PTSerif-Regular.ttf'); } 
-@font-face { font-family:glitch; src: url('RubikGlitchPop-Regular.ttf'); } 
-@font-face { font-family:robotoslab; src: url('RobotoSlab-VariableFont_wght.ttf'); } 
+@font-face { font-family:Proteststrike; src: url('ProtestStrike-Regular.woff2'); } 
+@font-face { font-family:PTserif; src: url('PTSerif-Regular.woff2'); } 
+/* @font-face { font-family:glitch; src: url('RubikGlitchPop-Regular.ttf'); }  */
+@font-face { font-family:robotoslab; src: url('RobotoSlab-VariableFont_wght.woff2'); } 
 
 *{
     margin: 0px;

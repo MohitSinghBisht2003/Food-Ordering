@@ -1,4 +1,11 @@
- let val1=document.getElementById("q1").innerText;
+// const fadeOut=()=>{
+//   const loader=document.querySelector(".preloader");
+//   loader.classList.remove("preloader");
+// }
+// window.addEventListener("load",fadeOut);
+
+
+let val1=document.getElementById("q1").innerText;
 let val2=document.getElementById("q2").innerText;
 let val3=document.getElementById("q3").innerText;
 let val4=document.getElementById("q4").innerText;
